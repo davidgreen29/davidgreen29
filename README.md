@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @davidgreen29
+- 👋 Hi, I’m David Green
 - 👀 I’m interested in ...anything to do with software engineering whether its the front end or back I'm ready to collab with you 
 - 🌱 I’m currently learning ...advanced react and improving my knowledge of Nosql and relational databases
 - 💞️ I’m looking to collaborate on ...any project just contact me
